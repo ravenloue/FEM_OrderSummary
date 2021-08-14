@@ -21,7 +21,7 @@ footer{ // This keeps the Frontend Mentor credits at the bottom of the page
 // Mobile Browser
 @media only screen and (max-width: 640px) and (min-width: 240px){
     body{ // And this sets the background for mobile/tablets
-        background-image: url(/images/pattern-background-mobile.svg);
+        background-image: url('/images/pattern-background-mobile.svg');
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;

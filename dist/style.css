@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("/images/pattern-background-desktop.svg");
+  background-image: url("/FEM_OrderSummary/images/pattern-background-desktop.svg");
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -21,7 +21,7 @@ footer {
 
 @media only screen and (max-width: 640px) and (min-width: 240px) {
   body {
-    background-image: url('/images/pattern-background-mobile.svg');
+    background-image: url('/FEM_OrderSummary/images/pattern-background-mobile.svg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

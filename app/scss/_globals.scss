@@ -8,7 +8,7 @@ body{ // Just setting up the background image for desktops
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/images/pattern-background-desktop.svg');
+    background-image: url('https://ravenloue.github.io/FEM_OrderSummary/images/pattern-background-desktop.svg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -21,7 +21,7 @@ footer{ // This keeps the Frontend Mentor credits at the bottom of the page
 // Mobile Browser
 @media only screen and (max-width: 640px) and (min-width: 240px){
     body{ // And this sets the background for mobile/tablets
-        background-image: url(/images/pattern-background-mobile.svg);
+        background-image: url('https://ravenloue.github.io/FEM_OrderSummary/images/pattern-background-mobile.svg');
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
